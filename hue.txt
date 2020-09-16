@@ -1,0 +1,15 @@
+1.discuss with horotnworks support team(send confirmation mail for hdp and hdf support).
+2.ladp or mit kerberos
+3.airflow & Hue
+4.prod clusters(hdp&hdf)
+
+
+HDP-3.1.0.0& HDF3.2 support:
+===========================
+
+jdbc:hive2://hdp002.eastus.cloudapp.azure.com:2181,devhdp003.eastus.cloudapp.azure.com:2181,devhdp004.eastus.cloudapp.azure.com:2181/;serviceDiscoveryMode=zooKeeper;zooKeeperNamespace=hiveserver2
+
+
+https://gethue.com/how-to-build-hue-on-ubuntu-14-04-trusty/
+https://gethue.com/configure-ambari-hdp-with-hue/
+https://blog.clairvoyantsoft.com/hue-4-5-0-with-hdp-3-1-4-a-game-of-latest-technologies-7376710a1f8e
