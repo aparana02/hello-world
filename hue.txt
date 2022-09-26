@@ -1,4 +1,4 @@
-1.discuss with horotnworks support team(send confirmation mail for hdp and hdf support).
+2`1.discuss with horotnworks support team(send confirmation mail for hdp and hdf support).
 2.ladp or mit kerberos
 3.airflow & Hue
 4.prod clusters(hdp&hdf)
